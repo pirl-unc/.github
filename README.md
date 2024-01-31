@@ -1,2 +1,2 @@
-# .github
-Personalized Immunotherapy Research Lab at UNC
+# PIRL
+The Personalilized Immunotherapy Research Lab (PIRL) is a multi-PI research group at the University of North Carolina - Chapel Hill. We work on identifying the determinants immune-mediated tumor clearance in a way that's fully personalized to each individual and their cancer. That high degree of personalization is manifested in algorithms for antigen identification across the spheres of genomics, proteomics, and machine learning for immunology. 
